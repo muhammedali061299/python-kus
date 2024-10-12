@@ -1,0 +1,16 @@
+
+a=print ("Bu program kaç yıl yaşadığını hesaplar")
+#a= int (input("doğum yılın nedir?")
+#a= int(a)
+#print(2024-int(a2000))
+
+ad=input("Adın nedir?")
+a=int(input(f"{ad} doğum yılın nedir?"))
+print (f"Demek {2024-a} yaşındasın {ad}.")
+
+if 2024-a > 50 : print("Yaşlısın.")
+elif 2024-a > 30: print ("Orta Yaşlısın.")
+elif 2024-a > 15: print("Gençsin")
+
+input()
+ 

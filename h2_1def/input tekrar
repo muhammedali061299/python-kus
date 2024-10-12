@@ -1,0 +1,10 @@
+# input()  # Burada girilen bilgi çöpe gider
+
+# a = input() #Bu şekilde olunca kullanıcı ne girmesi gerektiğini bilemez
+# print (a*5)
+
+a=iprint ("Bu program girilen şeyi 5 kere yazar")
+nput("Bir şeyler girin:")
+print(a*5)
+
+input()

@@ -1,0 +1,13 @@
+if dy >2023 or dy < 1900 :
+  print("Doğum yılı yanlış girildi.")
+
+else: 
+ ad=input("Adın nedir)")
+ dy =int(input(f{ad} doğum yılın nedir)
+ print(f "Demek{2024-dy}yaşındasın{dy}.")
+    yas=2024-dy
+
+    if yaş > 30 and yas < 50 :print("Orta yaşlısın") 
+    if 30 < yas < 50 :print("Orta yaşlısın")         
+    if 4 < yas < 30 :print("Gençsin")                             
+    if yas> 4 and yas  < 15 :print("Gençsin")  
