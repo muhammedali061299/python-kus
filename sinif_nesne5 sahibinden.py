@@ -39,9 +39,9 @@ print("hayvan1.Yaşı: ",hayvan1.Yaşı)
 
 hayvan2 = HayvanAlemi()
 
-class Tasit(Ilan):
+class Emlak(Ilan):
     pass
 
-class Emlak(Ilan):
+class Tasit(Ilan):
     pass
 
